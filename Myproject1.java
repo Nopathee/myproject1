@@ -17,6 +17,8 @@ public class Myproject1 {
         System.out.println("Hello World");
         
         System.out.println("Hello Java");
+        
+        System.out.println("Hello Programming");
     }
     
 }
