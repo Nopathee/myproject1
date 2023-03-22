@@ -18,9 +18,6 @@ public class Myproject1 {
         
         System.out.println("Hello Java");
         
-        System.out.println("Hello Programming");
-        
-        System.out.println("Hello Python");
     }
     
 }
